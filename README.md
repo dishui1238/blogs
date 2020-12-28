@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-28 14:34:48
- * @LastEditTime: 2020-12-28 14:39:25
+ * @LastEditTime: 2020-12-28 14:46:58
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \blogs\README.md
@@ -11,7 +11,7 @@
 
 - [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 
-# JS 相关
+# JavaScript 相关
 
 - [ES6、ES7、ES8、ES9、ES10 新特性一览](https://juejin.im/post/6844903811622912014#heading-26)
 
