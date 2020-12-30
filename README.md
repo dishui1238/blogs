@@ -1,13 +1,13 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-28 14:34:48
- * @LastEditTime: 2020-12-28 14:46:58
+ * @LastEditTime: 2020-12-30 15:58:40
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \blogs\README.md
 -->
 
-# 浏览器相关
+# 浏览器 相关
 
 - [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 
