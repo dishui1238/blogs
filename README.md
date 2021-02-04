@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-28 14:34:48
- * @LastEditTime: 2021-01-04 11:38:49
+ * @LastEditTime: 2021-02-03 15:37:03
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \blogs\README.md
@@ -14,6 +14,7 @@
 # JavaScript 相关
 
 - [ES6、ES7、ES8、ES9、ES10 新特性一览](https://juejin.im/post/6844903811622912014#heading-26)
+- [如何在 JavaScript 里面做缓存](https://www.30secondsofcode.org/blog/s/javascript-memoization)
 
 # React 相关
 
