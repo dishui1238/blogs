@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-28 14:34:48
- * @LastEditTime: 2021-02-03 15:37:03
+ * @LastEditTime: 2021-04-14 09:38:52
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \blogs\README.md
@@ -10,6 +10,7 @@
 # 浏览器 相关
 
 - [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
+- [Web 端反爬虫技术方案](https://juejin.cn/post/6844903654810468359)
 
 # JavaScript 相关
 
